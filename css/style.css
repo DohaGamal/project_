@@ -9,7 +9,7 @@
 .nav-link {
   color: rgb(9 89 9);
   font-size: 1.3em;
-  font-family: Cairo-Bold;
+  font-family: Cairo-Light;
 }
 .nav-link:hover {
   color: black;
@@ -32,7 +32,7 @@ h2.name {
   padding-top: 6em;
   color: #000000;
   font-size: 1.5em;
-  font-family: Cairo-Bold;
+  font-family: Cairo-Light;
   padding-bottom: 6em;
   line-height: 4em;
 }
@@ -66,5 +66,5 @@ i.fab.fa-whatsapp.links {
 a.span {
   color: #000;
   font-size: 1.5em;
-  font-family: Cairo-Bold;
+  font-family: Cairo-Light;
 }
