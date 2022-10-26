@@ -1,0 +1,70 @@
+@font-face {
+  font-family: Cairo-Bold;
+  src: url("../fonts/Cairo-Bold.ttf");
+}
+@font-face {
+  font-family: Cairo-Light;
+  src: url("../font/Cairo-Light.ttf");
+}
+.nav-link {
+  color: rgb(9 89 9);
+  font-size: 1.3em;
+  font-family: Cairo-Bold;
+}
+.nav-link:hover {
+  color: black;
+}
+img.img {
+  width: 20em;
+}
+.my-col {
+  text-align: center;
+  padding-top: 2em;
+}
+
+h2.name {
+  font-family: Cairo-Light;
+  font-size: 3em;
+  color: #4e731d;
+}
+.col.coll {
+  padding-right: 5em;
+  padding-top: 6em;
+  color: #000000;
+  font-size: 1.5em;
+  font-family: Cairo-Bold;
+  padding-bottom: 6em;
+  line-height: 4em;
+}
+.light {
+  background-color: #7aff9b;
+  width: 100vw;
+}
+.colll {
+  padding-right: 4em;
+  display: flex;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  justify-content: space-around;
+  background-color: #e0e0e0;
+}
+a {
+  text-decoration: none;
+}
+.links {
+  font-size: 2em;
+}
+i.fab.fa-instagram.links {
+  color: #c41c3d;
+}
+i.fab.fa-snapchat-ghost.links {
+  color: #e7e700;
+}
+i.fab.fa-whatsapp.links {
+  color: green;
+}
+a.span {
+  color: #000;
+  font-size: 1.5em;
+  font-family: Cairo-Bold;
+}
